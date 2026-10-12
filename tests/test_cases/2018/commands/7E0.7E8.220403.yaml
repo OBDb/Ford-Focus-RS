@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220403
+test_cases:
+- expected_values:
+    FRS_KS1_RAW: 6
+  response: '7E8056204030006'
+- expected_values:
+    FRS_KS1_RAW: 499
+  response: 7E80562040301F3

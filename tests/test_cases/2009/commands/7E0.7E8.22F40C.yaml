@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    FRS_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    FRS_RPM: 891.5
+  response: 7E80562F40C0DEE
+- expected_values:
+    FRS_RPM: 2850.75
+  response: 7E80562F40C2C8B

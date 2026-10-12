@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221E16
+test_cases:
+- expected_values:
+    FRS_AXLE_GEAR_RATIO_MEAS: 2.6958
+  response: 7E805621E162B22
+- expected_values:
+    FRS_AXLE_GEAR_RATIO_MEAS: 3.31689
+  response: 7E805621E163512
+- expected_values:
+    FRS_AXLE_GEAR_RATIO_MEAS: 3.98999
+  response: 7E805621E163FD7
+- expected_values:
+    FRS_AXLE_GEAR_RATIO_MEAS: 10
+  response: 7E805621E16EE6B

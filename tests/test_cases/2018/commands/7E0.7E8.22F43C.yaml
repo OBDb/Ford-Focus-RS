@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    FRS_CAT_TEMP: 101.7
+  response: 7E80562F43C0589
+- expected_values:
+    FRS_CAT_TEMP: 445.8
+  response: 7E80562F43C12FA
+- expected_values:
+    FRS_CAT_TEMP: 549
+  response: 7E80562F43C1702
+- expected_values:
+    FRS_CAT_TEMP: 710
+  response: 7E80562F43C1D4C

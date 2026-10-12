@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    FRS_DIST_DTC_CLR: 1114
+  response: 7E80562F431045A
+- expected_values:
+    FRS_DIST_DTC_CLR: 1985
+  response: 7E80562F43107C1
+- expected_values:
+    FRS_DIST_DTC_CLR: 1999
+  response: 7E80562F43107CF

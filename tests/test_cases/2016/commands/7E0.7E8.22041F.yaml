@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22041F
+test_cases:
+- expected_values:
+    FRS_LPFP_DES: 78.3
+  response: 7E80462041FB4
+- expected_values:
+    FRS_LPFP_DES: 83.955
+  response: 7E80462041FC1
+- expected_values:
+    FRS_LPFP_DES: 84.39
+  response: 7E80462041FC2
+- expected_values:
+    FRS_LPFP_DES: 87
+  response: 7E80462041FC8
+- expected_values:
+    FRS_LPFP_DES: 87.435
+  response: 7E80462041FC9

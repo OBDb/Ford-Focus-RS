@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220460
+test_cases:
+- expected_values:
+    FRS_CAT_SENS_V: 1.97266
+  response: 7E80562046007E4
+- expected_values:
+    FRS_CAT_SENS_V: 2.5
+  response: 7E8056204600A00
+- expected_values:
+    FRS_CAT_SENS_V: 2.74902
+  response: 7E8056204600AFF
+- expected_values:
+    FRS_CAT_SENS_V: 2.79297
+  response: 7E8056204600B2C

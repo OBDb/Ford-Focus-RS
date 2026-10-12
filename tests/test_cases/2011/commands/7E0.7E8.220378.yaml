@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220378
+test_cases:
+- expected_values:
+    FRS_GEN_CTRL: 16.20612
+  response: 7E80562037814BE
+- expected_values:
+    FRS_GEN_CTRL: 18.75149
+  response: '7E8056203781800'
+- expected_values:
+    FRS_GEN_CTRL: 21.09237
+  response: 7E8056203781AFF
+- expected_values:
+    FRS_GEN_CTRL: 54.09975
+  response: 7E805620378453E

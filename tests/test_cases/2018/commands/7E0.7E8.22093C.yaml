@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    FRS_ETC_ANG_ACT: 1.49414
+  response: 7E80562093C02FD
+- expected_values:
+    FRS_ETC_ANG_ACT: 3.50195
+  response: 7E80562093C0701
+- expected_values:
+    FRS_ETC_ANG_ACT: 15.29492
+  response: 7E80562093C1E97

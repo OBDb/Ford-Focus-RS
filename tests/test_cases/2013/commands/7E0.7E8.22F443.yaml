@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F443
+test_cases:
+- expected_values:
+    FRS_ENG_LOAD_ACT: 10.98039
+  response: 7E80562F443001C
+- expected_values:
+    FRS_ENG_LOAD_ACT: 61.56863
+  response: 7E80562F443009D
+- expected_values:
+    FRS_ENG_LOAD_ACT: 101.17647
+  response: 7E80562F4430102

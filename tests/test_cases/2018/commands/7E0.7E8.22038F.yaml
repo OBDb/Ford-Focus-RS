@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22038F
+test_cases:
+- expected_values:
+    FRS_ECT: 21.17188
+  response: 7E80562038F054B
+- expected_values:
+    FRS_ECT: 51.9375
+  response: 7E80562038F0CFC
+- expected_values:
+    FRS_ECT: 68.28125
+  response: 7E80562038F1112
+- expected_values:
+    FRS_ECT: 90.78125
+  response: 7E80562038F16B2

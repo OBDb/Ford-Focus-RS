@@ -1,0 +1,20 @@
+command_id: 726.72E.224028
+test_cases:
+- expected_values:
+    FRS_12V_SOC: 32
+  response: '72E0462402820'
+- expected_values:
+    FRS_12V_SOC: 35
+  response: '72E0462402823'
+- expected_values:
+    FRS_12V_SOC: 36
+  response: '72E0462402824'
+- expected_values:
+    FRS_12V_SOC: 37
+  response: '72E0462402825'
+- expected_values:
+    FRS_12V_SOC: 38
+  response: '72E0462402826'
+- expected_values:
+    FRS_12V_SOC: 51
+  response: '72E0462402833'

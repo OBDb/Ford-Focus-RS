@@ -1,0 +1,20 @@
+command_id: 726.72E.22DD01
+test_cases:
+- expected_values:
+    FRS_ODO_726: 84405
+  response: 72E0662DD010149B5
+- expected_values:
+    FRS_ODO_726: 136722
+  response: 72E0662DD01021612
+- expected_values:
+    FRS_ODO_726: 326596
+  response: 72E0662DD0104FBC4
+- expected_values:
+    FRS_ODO_726: 326655
+  response: 72E0662DD0104FBFF
+- expected_values:
+    FRS_ODO_726: 326656
+  response: 72E0662DD0104FC00
+- expected_values:
+    FRS_ODO_726: 326912
+  response: 72E0662DD0104FD00

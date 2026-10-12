@@ -1,0 +1,14 @@
+command_id: 7E0.220393
+test_cases:
+- expected_values:
+    FRS_AC_P: 140.68662
+  response: 7E80562039301E5
+- expected_values:
+    FRS_AC_P: 147.9385
+  response: 7E80562039301FE
+- expected_values:
+    FRS_AC_P: 148.51865
+  response: '7E8056203930200'
+- expected_values:
+    FRS_AC_P: 337.64788
+  response: 7E805620393048C

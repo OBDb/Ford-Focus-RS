@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22116B
+test_cases:
+- expected_values:
+    FRS_IGN_TIM_CYL1: 10
+  response: 7E80562116B0028
+- expected_values:
+    FRS_IGN_TIM_CYL1: -3.75
+  response: 7E80562116BFFF1
+- expected_values:
+    FRS_IGN_TIM_CYL1: -1.25
+  response: 7E80562116BFFFB

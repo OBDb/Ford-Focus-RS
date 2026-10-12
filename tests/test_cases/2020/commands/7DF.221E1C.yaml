@@ -1,0 +1,8 @@
+command_id: 7DF.221E1C
+test_cases:
+- expected_values:
+    FRS_TOT: 19.625
+  response: 7E805621E1C013A
+- expected_values:
+    FRS_TOT: 42.5
+  response: 7E905621E1C02A8

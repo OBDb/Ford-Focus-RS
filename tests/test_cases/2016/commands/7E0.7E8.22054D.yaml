@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22054D
+test_cases:
+- expected_values:
+    FRS_LPFP_SENS_V: 3.58887
+  response: 7E80562054D0E5B
+- expected_values:
+    FRS_LPFP_SENS_V: 3.79395
+  response: 7E80562054D0F2D
+- expected_values:
+    FRS_LPFP_SENS_V: 3.98438
+  response: 7E80562054D0FF0

@@ -1,0 +1,8 @@
+command_id: 7DF.22F45C
+test_cases:
+- expected_values:
+    FRS_EOP: 60
+  response: 7E80462F45C3C
+- expected_values:
+    FRS_EOP: 129
+  response: 7E80462F45C81

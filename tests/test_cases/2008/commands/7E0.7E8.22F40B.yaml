@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    FRS_MAP: 2.90078
+  response: 7E80462F40B14
+- expected_values:
+    FRS_MAP: 13.63366
+  response: 7E80462F40B5E
