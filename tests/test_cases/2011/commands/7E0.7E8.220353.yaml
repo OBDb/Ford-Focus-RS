@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220353
+test_cases:
+- expected_values:
+    FRS_BARO: 12.54436
+  response: 7E805620353015A
+- expected_values:
+    FRS_BARO: 14.10334
+  response: '7E8056203530185'
+- expected_values:
+    FRS_BARO: 14.1396
+  response: '7E8056203530186'

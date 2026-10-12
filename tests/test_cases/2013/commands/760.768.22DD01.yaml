@@ -1,0 +1,23 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    FRS_ABS_ODO: 196210
+  response: 7680662DD0102FE72
+- expected_values:
+    FRS_ABS_ODO: 196211
+  response: 7680662DD0102FE73
+- expected_values:
+    FRS_ABS_ODO: 196212
+  response: 7680662DD0102FE74
+- expected_values:
+    FRS_ABS_ODO: 196256
+  response: 7680662DD0102FEA0
+- expected_values:
+    FRS_ABS_ODO: 196258
+  response: 7680662DD0102FEA2
+- expected_values:
+    FRS_ABS_ODO: 196877
+  response: 7680662DD0103010D
+- expected_values:
+    FRS_ABS_ODO: 197811
+  response: 7680662DD010304B3

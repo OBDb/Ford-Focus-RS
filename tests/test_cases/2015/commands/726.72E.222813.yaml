@@ -1,0 +1,8 @@
+command_id: 726.72E.222813
+test_cases:
+- expected_values:
+    FRS_TP_FL: 31.15
+  response: 72E05622813026F
+- expected_values:
+    FRS_TP_FL: 34.75
+  response: 72E0562281302B7

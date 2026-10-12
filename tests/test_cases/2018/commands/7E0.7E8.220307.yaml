@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    FRS_LPFP_DUTY: 21.1853
+  response: 7E8056203071B1E
+- expected_values:
+    FRS_LPFP_DUTY: 27.3407
+  response: 7E80562030722FF
+- expected_values:
+    FRS_LPFP_DUTY: 75
+  response: '7E8056203076000'

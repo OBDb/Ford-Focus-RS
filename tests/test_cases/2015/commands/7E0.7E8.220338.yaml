@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220338
+test_cases:
+- expected_values:
+    FRS_ETC_TRIM_LRN: 1.66992
+  response: '7E8056203380357'
+- expected_values:
+    FRS_ETC_TRIM_LRN: 1.70312
+  response: '7E8056203380368'
+- expected_values:
+    FRS_ETC_TRIM_LRN: 1.70703
+  response: 7E805620338036A

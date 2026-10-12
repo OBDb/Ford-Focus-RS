@@ -1,0 +1,5 @@
+command_id: 760.768.22DD01
+test_cases:
+- expected_values:
+    FRS_ABS_ODO: 137855
+  response: 7680662DD01021A7F

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    FRS_FLI_7E0_7E0: 0
+  response: 7E80462F42F00
+- expected_values:
+    FRS_FLI_7E0_7E0: 100
+  response: 7E80462F42FFF

@@ -1,0 +1,14 @@
+command_id: 760.768.223987
+test_cases:
+- expected_values:
+    FRS_ABS_WHL_SPD_1: 0
+    FRS_ABS_WHL_SPD_2: 0
+    FRS_ABS_WHL_SPD_3: 0
+    FRS_ABS_WHL_SPD_4: 0
+  response: '7680762398700000000'
+- expected_values:
+    FRS_ABS_WHL_SPD_1: 88
+    FRS_ABS_WHL_SPD_2: 88
+    FRS_ABS_WHL_SPD_3: 88
+    FRS_ABS_WHL_SPD_4: 88
+  response: '7680762398758585858'

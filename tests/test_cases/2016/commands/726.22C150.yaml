@@ -1,0 +1,9 @@
+command_id: 726.22C150
+test_cases:
+- expected_values:
+    FRS_DRIVER_DOOR_OPEN: 0
+    FRS_PASSENGER_DOOR_OPEN: 0
+    FRS_RLD_OPEN: 0
+    FRS_RRD_OPEN: 0
+    FRS_TRUNK_OPEN: 0
+  response: 72E0762C15080000000

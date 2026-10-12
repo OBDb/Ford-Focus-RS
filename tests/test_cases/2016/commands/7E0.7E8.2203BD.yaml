@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2203BD
+test_cases:
+- expected_values:
+    FRS_CL_LC: 0
+  response: 7E8056203BD0000
+- expected_values:
+    FRS_CL_LC: -0.02734
+  response: 7E8056203BDFF20
+- expected_values:
+    FRS_CL_LC: -0.00134
+  response: 7E8056203BDFFF5

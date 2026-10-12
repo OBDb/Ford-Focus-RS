@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F40F
+test_cases:
+- expected_values:
+    FRS_IAT_ALT2: -5
+  response: 7E80462F40F23
+- expected_values:
+    FRS_IAT_ALT2: -4
+  response: 7E80462F40F24
+- expected_values:
+    FRS_IAT_ALT2: -3
+  response: 7E80462F40F25
+- expected_values:
+    FRS_IAT_ALT2: -2
+  response: 7E80462F40F26
+- expected_values:
+    FRS_IAT_ALT2: -1
+  response: 7E80462F40F27
+- expected_values:
+    FRS_IAT_ALT2: 1
+  response: 7E80462F40F29
+- expected_values:
+    FRS_IAT_ALT2: 2
+  response: 7E80462F40F2A
+- expected_values:
+    FRS_IAT_ALT2: 31
+  response: 7E80462F40F47
+- expected_values:
+    FRS_IAT_ALT2: 64
+  response: 7E80462F40F68
+- expected_values:
+    FRS_IAT_ALT2: 65
+  response: 7E80462F40F69

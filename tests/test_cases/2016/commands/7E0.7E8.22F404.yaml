@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F404
+test_cases:
+- expected_values:
+    FRS_ENG_LOAD_PCT: 6.66667
+  response: 7E80462F40411
+- expected_values:
+    FRS_ENG_LOAD_PCT: 92.54902
+  response: 7E80462F404EC

@@ -1,0 +1,8 @@
+command_id: 720.728.226185
+test_cases:
+- expected_values:
+    FRS_FLI: 0
+  response: '7280462618500'
+- expected_values:
+    FRS_FLI: 97.64706
+  response: 72804626185F9

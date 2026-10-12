@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220466
+test_cases:
+- expected_values:
+    FRS_TIP_DES_ABS: 13.87127
+  response: 7E80562046630F9
+- expected_values:
+    FRS_TIP_DES_ABS: 13.87459
+  response: 7E80562046630FC
+- expected_values:
+    FRS_TIP_DES_ABS: 13.88565
+  response: '7E8056204663106'
+- expected_values:
+    FRS_TIP_DES_ABS: 17.00798
+  response: 7E8056204663C0C
