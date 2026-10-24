@@ -666,7 +666,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "DD01"}, "freq": 30, "dbgfilter": { "to": 2016 },
   "signals": [
-    {"id": "FRS_TRANS_ODO", "path": "Transmission", "fmt": { "len": 24, "max": 16777215, "unit": "celsius" }, "name": "Transmission odometer"}
+    {"id": "FRS_TRANS_ODO", "path": "Transmission", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Transmission odometer"}
   ]},
 { "hdr": "7E4", "rax": "7EC", "cmd": {"22": "4800"}, "freq": 5, "dbgfilter": { "to": 2017 },
   "signals": [
